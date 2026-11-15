@@ -1,4 +1,4 @@
-# IAM Foundations – Quiz Study Guide
+# IAM Foundations – Study Guide
 
 ## Core Concepts to Know
 
