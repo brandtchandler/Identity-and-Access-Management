@@ -1,4 +1,4 @@
-# PAM Foundations – Quiz Study Guide
+# PAM Foundations – Study Guide
 
 ## What is Privileged Access?
 Anything that can change security settings, create/modify identities, or access data it doesn’t own counts as privileged.
